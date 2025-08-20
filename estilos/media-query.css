@@ -16,7 +16,10 @@
     section#login > div#formulario{
         float: left;
     }
-
+    
+    div.campo label {
+        display: none;
+    }
 }
 @media screen and (min-width:992px)
 {
@@ -37,7 +40,9 @@
         float: left;
         width: 50%;
     }
-
+    div.campo label {
+        display:none;
+    }
     div#formulario > h1{
         font-size: 1.2em;
     }
