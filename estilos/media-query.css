@@ -17,9 +17,7 @@
         float: left;
     }
     
-    div.campo label {
-        display: none;
-    }
+    
 }
 @media screen and (min-width:992px)
 {
@@ -47,8 +45,6 @@
         font-size: 1.2em;
     }
 
-    div#formulario > p{
-  font-size: 1.2em;
-    }
+    
 
 }
